@@ -36,8 +36,8 @@
 
   <p><b>Primary Weapons:</b></p>
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=rust,java,react,typescript,tailwind,spring,postgres,docker,git,linux&theme=dark" alt="My Skills" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=rust,java,react,tailwind,spring,postgres,kubernetes,git,aws,linux&theme=dark" alt="My Skills" />
+ </a>
 
   <br/><br/>
 
